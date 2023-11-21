@@ -1,0 +1,34 @@
+[
+	{
+		"method": "readProducts",
+		"permissions": ["productRead"]
+	},
+	{
+		"method": "addProduct",
+		"permissions": ["productAdd"]
+	},
+	{
+		"method": "updateProduct",
+		"permissions": ["productUpdate"]
+	},
+	{
+		"method": "deleteProduct",
+		"permissions": ["productUpdate"]
+	},
+	{
+		"method": "readOrders",
+		"permissions": ["orderRead"]
+	},
+	{
+		"method": "addOrder",
+		"permissions": ["orderAdd"]
+	},
+	{
+		"method": "updateOrder",
+		"permissions": ["orderUpdate"]
+	},
+	{
+		"method": "deleteOrder",
+		"permissions": ["orderUpdate"]
+	}
+]

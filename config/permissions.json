@@ -1,0 +1,26 @@
+[
+	{
+		"name": "productRead",
+		"description": "Permission to read products."
+	},
+	{
+		"name": "productAdd",
+		"description": "Permission to create new products."
+	},
+	{
+		"name": "productUpdate",
+		"description": "Permission to update or delete existing products."
+	},
+	{
+		"name": "orderRead",
+		"description": "Permission to read orders."
+	},
+	{
+		"name": "orderAdd",
+		"description": "Permission to create new orders."
+	},
+	{
+		"name": "orderUpdate",
+		"description": "Permission to update or delete existing orders."
+	}
+]
