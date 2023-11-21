@@ -1,5 +1,0 @@
-{
-	"main": "logistics.Main.main",
-	"help": "logistics.Console.printHelp",
-	"parser": "logistics.Console.parseCommand"
-}

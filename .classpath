@@ -6,7 +6,6 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="src" path="src"/>
-	<classpathentry kind="con" path="org.eclipse.ajdt.core.ASPECTJRT_CONTAINER"/>
 	<classpathentry kind="lib" path="C:/Java/org.eclipse.jgit-6.7.0.202309050840-r.jar"/>
 	<classpathentry kind="lib" path="C:/Java/slf4j-api-2.0.9.jar"/>
 	<classpathentry kind="output" path="bin"/>
